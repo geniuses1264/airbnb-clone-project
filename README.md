@@ -35,6 +35,7 @@ A clean and user-friendly design is essential for a successful booking platform.
 - Enhances accessibility, ensuring everyone — regardless of device or ability — can use the platform with ease.
   
 ###Figma Design Specifications
+
  Color Styles:
 
 - Primary: #FF5A5F
