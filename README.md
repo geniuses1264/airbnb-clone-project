@@ -26,7 +26,7 @@ A full-stack clone of the AirBnB platform for accommodation bookings.
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
   
-###Figma Design Specifications
+### Figma Design Specifications
 
  Color Styles:
 
@@ -56,7 +56,7 @@ Identifying the color styles and typography from Figma is essential for:
 
 - Speeding up the development process by reducing back-and-forth confusion
 
- ##Project Roles and Responsibilities
+ ## Project Roles and Responsibilities
 |Role                     |	Responsibilities                                                             |
 |-------------------------|------------------------------------------------------------------------------|
 |Project Manager	        | Oversees timeline, coordinates team, manages deliverables                    |
