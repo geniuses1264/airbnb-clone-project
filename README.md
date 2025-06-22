@@ -71,21 +71,21 @@ Identifying the color styles and typography from Figma is essential for:
 ## UI Component Patterns
 ### Planned Components
 
-1.Navbar
+1. Navbar
 
 - Logo
 - Search bar
 - User navigation
 - Responsive menu
 
-2.Property Card
+2. Property Card
 
 - Property image
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
 
-3.Footer
+3. Footer
 
 - Site links
 - Company information
