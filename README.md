@@ -24,15 +24,7 @@ A full-stack clone of the AirBnB platform for accommodation bookings.
 
 ### Importance of a User-Friendly Design
 
-A clean and user-friendly design is essential for a successful booking platform. It:
-
-- Reduces friction in the user journey, helping users complete bookings faster.
-
-- Increases trust and satisfaction, encouraging return visits.
-
-- Improves conversion rates by removing confusion or hesitation during checkout.
-
-- Enhances accessibility, ensuring everyone — regardless of device or ability — can use the platform with ease.
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
   
 ###Figma Design Specifications
 
@@ -63,3 +55,16 @@ Identifying the color styles and typography from Figma is essential for:
 - Maintaining brand integrity and professional appearance
 
 - Speeding up the development process by reducing back-and-forth confusion
+
+ ##Project Roles and Responsibilities
+|Role                     |	Responsibilities                                                             |
+|-------------------------|------------------------------------------------------------------------------|
+|Project Manager	        | Oversees timeline, coordinates team, manages deliverables                    |
+|Frontend Developers	    | Implements UI components, ensures responsive design                          |
+|Backend Developers	      | Builds APIs, manages database, implements business logic                     |
+|Designers	              | Creates mockups, maintains design system, ensures UX quality                 |
+|QA/Testers              	| Writes test cases, performs testing, reports bugs                            |
+|DevOps Engineers	        | Manages deployment, CI/CD pipeline, server infrastructure                    |
+|Product Owner	          | Defines requirements, prioritizes features, represents stakeholders          |
+|Scrum Master	            | Facilitates agile processes, removes blockers, organizes meetings            |
+
